@@ -33,7 +33,6 @@ namespace LeetCodeEasy
         static void Main(string[] args)
         {
             TreeNode test1 = new TreeNode(5, null, null);
-            
         }
     }
 }
