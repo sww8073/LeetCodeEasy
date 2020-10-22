@@ -1,0 +1,11 @@
+C:\Users\wyatt\RiderProjects\LeetCodeEasy\LeetCodeEasy\bin\Debug\netcoreapp3.1\LeetCodeEasy.exe
+C:\Users\wyatt\RiderProjects\LeetCodeEasy\LeetCodeEasy\bin\Debug\netcoreapp3.1\LeetCodeEasy.deps.json
+C:\Users\wyatt\RiderProjects\LeetCodeEasy\LeetCodeEasy\bin\Debug\netcoreapp3.1\LeetCodeEasy.runtimeconfig.json
+C:\Users\wyatt\RiderProjects\LeetCodeEasy\LeetCodeEasy\bin\Debug\netcoreapp3.1\LeetCodeEasy.runtimeconfig.dev.json
+C:\Users\wyatt\RiderProjects\LeetCodeEasy\LeetCodeEasy\bin\Debug\netcoreapp3.1\LeetCodeEasy.dll
+C:\Users\wyatt\RiderProjects\LeetCodeEasy\LeetCodeEasy\bin\Debug\netcoreapp3.1\LeetCodeEasy.pdb
+C:\Users\wyatt\RiderProjects\LeetCodeEasy\LeetCodeEasy\obj\Debug\netcoreapp3.1\LeetCodeEasy.csprojAssemblyReference.cache
+C:\Users\wyatt\RiderProjects\LeetCodeEasy\LeetCodeEasy\obj\Debug\netcoreapp3.1\LeetCodeEasy.AssemblyInfoInputs.cache
+C:\Users\wyatt\RiderProjects\LeetCodeEasy\LeetCodeEasy\obj\Debug\netcoreapp3.1\LeetCodeEasy.AssemblyInfo.cs
+C:\Users\wyatt\RiderProjects\LeetCodeEasy\LeetCodeEasy\obj\Debug\netcoreapp3.1\LeetCodeEasy.dll
+C:\Users\wyatt\RiderProjects\LeetCodeEasy\LeetCodeEasy\obj\Debug\netcoreapp3.1\LeetCodeEasy.pdb
