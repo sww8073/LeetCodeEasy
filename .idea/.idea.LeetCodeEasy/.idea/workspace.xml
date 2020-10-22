@@ -4,11 +4,10 @@
     <projectFile>LeetCodeEasy/LeetCodeEasy.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="babee5e3-fbc1-4604-a3f3-5c729828e4c5" name="Default Changelist" comment="Added Max Depth Leetcode Challenge">
-      <change afterPath="$PROJECT_DIR$/LeetCodeEasy/singleNumber.cs" afterDir="false" />
+    <list default="true" id="babee5e3-fbc1-4604-a3f3-5c729828e4c5" name="Default Changelist" comment="Single Number LeetCode Easy">
+      <change afterPath="$PROJECT_DIR$/LeetCodeEasy/reverseString.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCodeEasy/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeEasy/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCodeEasy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeEasy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeEasy/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeEasy/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,7 @@
         <option value="$PROJECT_DIR$/LeetCodeEasy/maxDepth.cs" />
         <option value="$PROJECT_DIR$/LeetCodeEasy/Program.cs" />
         <option value="$PROJECT_DIR$/LeetCodeEasy/singleNumber.cs" />
+        <option value="$PROJECT_DIR$/LeetCodeEasy/reverseString.cs" />
       </list>
     </option>
   </component>
@@ -67,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603380555535</updated>
-      <workItem from="1603380563389" duration="4633000" />
+      <workItem from="1603380563389" duration="5635000" />
     </task>
     <task id="LOCAL-00001" summary="Added Max Depth Leetcode Challenge">
       <created>1603383892742</created>
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603383892742</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Single Number LeetCode Easy">
+      <created>1603388545382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603388545382</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +94,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Added Max Depth Leetcode Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Max Depth Leetcode Challenge" />
+    <MESSAGE value="Single Number LeetCode Easy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Single Number LeetCode Easy" />
   </component>
   <component name="WindowStateProjectService">
     <state x="3390" y="609" key="Github.ShareDialog" timestamp="1603383190858">
@@ -114,9 +122,9 @@
       <screen x="2560" y="188" width="1920" height="1040" />
     </state>
     <state width="1858" height="272" key="GridCell.Tab.0.right/0.0.2048.1112/2560.188.1920.1040@2560.188.1920.1040" timestamp="1603382748596" />
-    <state x="3112" y="436" key="Vcs.Push.Dialog.v2" timestamp="1603383901979">
+    <state x="3112" y="436" key="Vcs.Push.Dialog.v2" timestamp="1603388548756">
       <screen x="2560" y="188" width="1920" height="1040" />
     </state>
-    <state x="3112" y="436" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.188.1920.1040@2560.188.1920.1040" timestamp="1603383901979" />
+    <state x="3112" y="436" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.188.1920.1040@2560.188.1920.1040" timestamp="1603388548756" />
   </component>
 </project>
