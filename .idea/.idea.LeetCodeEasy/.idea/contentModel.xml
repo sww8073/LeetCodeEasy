@@ -7,6 +7,7 @@
       <e p="LeetCodeEasy" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="LeetCodeEasy.csproj" t="IncludeRecursive" />
+        <e p="MaxDepth.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">

@@ -2,7 +2,7 @@
 
 namespace LeetCodeEasy
 {
-    class Program
+    public class Program
     {
 
         public class TreeNode
